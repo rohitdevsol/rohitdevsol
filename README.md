@@ -68,8 +68,6 @@ const rohit = {
 
 <div align="center">
 
-### 🐍 Watch the Snake Eat My Contributions! 🐍
-
 <!-- GitHub Dark Theme Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitdevsol/rohitdevsol/output/github-contribution-grid-snake-dark.svg">
