@@ -138,35 +138,3 @@
 
 </div>
 
-<br>
-
-
-## 💼 Open for Opportunities
-
-```diff
-+ 🔭 Currently building distributed systems and blockchain solutions
-+ 🌱 Learning Rust and advanced system design patterns
-+ 👯 Looking to collaborate on open-source projects
-+ 💬 Ask me about TypeScript, Solana, Kafka, or Real-time Systems
-+ 📫 Reach out to me at Twitter @rohitdev_sol
-+ ⚡ Fun fact: I believe in "Code, Coffee, and Crypto"
-```
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Built with](https://img.shields.io/badge/Built%20with-TypeScript-blue?style=for-the-badge&logo=typescript)
-![Powered by](https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee)
-
-</div>
-
-<!-- Credit Section -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitdevsol&style=for-the-badge&color=blueviolet" alt="Profile views">
-</p>
