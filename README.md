@@ -66,9 +66,17 @@ const rohit = {
 
 <br>
 
-<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitdevsol/rohitdevsol/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+### 🐍 Watch the Snake Eat My Contributions! 🐍
+
+<!-- GitHub Dark Theme Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitdevsol/rohitdevsol/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitdevsol/rohitdevsol/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rohitdevsol/rohitdevsol/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <br>
