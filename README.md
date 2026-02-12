@@ -31,39 +31,21 @@
 ## <img src="https://badgen.net/badge/Tech%20Stack/Core%20Technologies/blue" alt="Tech Stack"/>
 
 **Languages & Frameworks:**
-TypeScript • JavaScript • Python • Solidity • Rust • Next.js • React • Node.js • tRPC • Express
+TypeScript • Rust • Next.js • React • Node.js • tRPC • Express
 
 **Databases & Message Queues:**
-PostgreSQL • MongoDB • Redis • Prisma • Kafka • RabbitMQ
+PostgreSQL • MongoDB • Redis • Prisma • Kafka
 
 **Blockchain & Web3:**
-Solana • Web3.js • Anchor • Ethereum
+Solana • Web3.js • Anchor
 
 **DevOps & Tools:**
-Docker • AWS • Vercel • GitHub Actions • Git • Linux
+Docker • AWS • GitHub CI/CD • Linux
 
----
-
-## <img src="https://badgen.net/badge/Currently/Building/green" alt="Currently"/>
-
-- 🔭 Building distributed systems and blockchain solutions
-- 🌱 Learning Rust and advanced system design patterns
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about TypeScript, Solana, Kafka, or Real-time Systems
-
----
 
 ## <img src="https://badgen.net/badge/Connect/with%20me/blue" alt="Connect"/>
 
 <p align="center">
-  <a href="https://rohitdevsol.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rohitdevsol">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
   <a href="https://twitter.com/rohitdev_sol">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
@@ -72,7 +54,7 @@ Docker • AWS • Vercel • GitHub Actions • Git • Linux
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:rohit@example.com">
+  <a href="mailto:rohitnarnolia88@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
