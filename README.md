@@ -27,6 +27,8 @@
 | [CollabDraw][2]              | Real-time collaborative whiteboard built with modern web technologies, featuring live canvas syncing and multiplayer editing.     | ![stars](https://img.shields.io/github/stars/rohitdevsol/CollabDraw?style=flat&logo=github)            |
 | [M8M Workflow Engine][3]     | Open-source AI workflow automation platform built with Next.js, tRPC, Kafka, and Prisma for intelligent workflow management.      | ![stars](https://img.shields.io/github/stars/rohitdevsol/m8m?style=flat&logo=github)                   |
 | [Solana Bounty SDK][4]       | TypeScript SDK for managing GitHub-linked bounties with Solana escrows, featuring secure webhook handling and reward distribution. | ![stars](https://img.shields.io/github/stars/rohitdevsol/Solana-Bounty-SDK?style=flat&logo=github)     |
+| [api-gateway][5]       | Rust-based API Gateway and rate limiter built with Axum and Tokio, featuring reverse proxying, continuous token bucket throttling, and extensible middleware architecture. | ![stars](https://img.shields.io/github/stars/rohitdevsol/api-gateway?style=flat&logo=github)     |
+
 
 ## <img src="https://badgen.net/badge/Tech%20Stack/Core%20Technologies/blue" alt="Tech Stack"/>
 
@@ -69,3 +71,4 @@ Docker • AWS • GitHub CI/CD • Linux
 [2]: https://github.com/rohitdevsol/CollabDraw
 [3]: https://github.com/rohitdevsol/m8m
 [4]: https://github.com/rohitdevsol/Solana-Bounty-SDK
+[5]: https://github.com/rohitdevsol/api-gateway
