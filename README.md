@@ -23,10 +23,10 @@
 
 | Project                      | Description                                                                                                                       | Stars                                                                                                   |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Better Uptime][1]           | Distributed uptime monitoring and alerting system with scheduled health checks, webhook triggers, and customizable status pages.  | ![stars](https://img.shields.io/github/stars/rohitdevsol/better-uptime?style=flat&logo=github)         |
-| [CollabDraw][2]              | Real-time collaborative whiteboard built with modern web technologies, featuring live canvas syncing and multiplayer editing.     | ![stars](https://img.shields.io/github/stars/rohitdevsol/CollabDraw?style=flat&logo=github)            |
+| [Laminar][1]           | A L4 load balancer in rust  | ![stars](https://img.shields.io/github/stars/rohitdevsol/laminar?style=flat&logo=github)         |
+| [mini-redis][2]              | mini-redis is an implementation of Redis's core features in rust      | ![stars](https://img.shields.io/github/stars/rohitdevsol/mini-redis?style=flat&logo=github)            |
 | [M8M Workflow Engine][3]     | Open-source AI workflow automation platform built with Next.js, tRPC, Kafka, and Prisma for intelligent workflow management.      | ![stars](https://img.shields.io/github/stars/rohitdevsol/m8m?style=flat&logo=github)                   |
-| [Solana Bounty SDK][4]       | TypeScript SDK for managing GitHub-linked bounties with Solana escrows, featuring secure webhook handling and reward distribution. | ![stars](https://img.shields.io/github/stars/rohitdevsol/Solana-Bounty-SDK?style=flat&logo=github)     |
+
 
 
 
@@ -35,7 +35,7 @@
 | Project                      | Description                                                                                                                       | Stars                                                                                                   |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | [api-gateway][5]       | Rust-based API Gateway and rate limiter built with Axum and Tokio, featuring reverse proxying, continuous token bucket throttling. | ![stars](https://img.shields.io/github/stars/rohitdevsol/api-gateway?style=flat&logo=github)     |
-| [LynxCode][6]              | Open-source AI coding assistant. Generate, edit, and preview full-stack apps instantly with GitHub integration.     | ![stars](https://img.shields.io/github/stars/rohitdevsol/lynx-code?style=flat&logo=github)            |
+
 
 
 ## <img src="https://badgen.net/badge/Tech%20Stack/Core%20Technologies/blue" alt="Tech Stack"/>
