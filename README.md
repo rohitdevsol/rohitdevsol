@@ -1,9 +1,9 @@
 
-<p align="center">
-  <strong>Rohit</strong> · Full Stack Developer
-</p>
+<h2 align="center">
+  <strong>Rohit Kumar</strong> 
+</h2> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
@@ -13,13 +13,11 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitdevsol&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdevsol"/>
-</p>
-
----
+</p> -->
 
 ## <img src="https://badgen.net/badge/Featured%20Projects/★/black?icon=github" alt="Featured Projects"/>
 
