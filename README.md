@@ -1,17 +1,6 @@
-solana engineer · systems & rust
----
-## craft
-```
-languages     rust · typescript
-runtime       tokio · node.js
-solana        anchor · quasar · pinocchio · litesvm · quasar_svm
-frontend      next.js · react · trpc
-data          postgresql · redis · kafka · prisma · mongodb
-infra         docker · nginx · github actions
-```
+
 
 ## solana programs
-&nbsp;&nbsp;same programs, rewritten across frameworks to compare compute-unit overhead
 
 **vault**
 &nbsp;&nbsp;[anchor](https://github.com/rohitdevsol/vault-anchor) · [quasar](https://github.com/rohitdevsol/vault_quasar) · [pinocchio](https://github.com/rohitdevsol/vault-pinocchio)
